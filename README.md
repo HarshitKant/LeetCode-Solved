@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HarshitKant/LeetCode-Solved/tree/master/0001-two-sum) |
+| [2058-concatenation-of-array](https://github.com/HarshitKant/LeetCode-Solved/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,4 +21,8 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/HarshitKant/LeetCode-Solved/tree/master/0242-valid-anagram) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/HarshitKant/LeetCode-Solved/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
