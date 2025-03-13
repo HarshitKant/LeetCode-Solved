@@ -16,6 +16,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/HarshitKant/LeetCode-Solved/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/HarshitKant/LeetCode-Solved/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
@@ -25,4 +26,8 @@
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/HarshitKant/LeetCode-Solved/tree/master/2058-concatenation-of-array) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/HarshitKant/LeetCode-Solved/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
