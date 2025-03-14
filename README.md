@@ -7,20 +7,24 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HarshitKant/LeetCode-Solved/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/HarshitKant/LeetCode-Solved/tree/master/0049-group-anagrams) |
 | [2058-concatenation-of-array](https://github.com/HarshitKant/LeetCode-Solved/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HarshitKant/LeetCode-Solved/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/HarshitKant/LeetCode-Solved/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/HarshitKant/LeetCode-Solved/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/HarshitKant/LeetCode-Solved/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/HarshitKant/LeetCode-Solved/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/HarshitKant/LeetCode-Solved/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/HarshitKant/LeetCode-Solved/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/HarshitKant/LeetCode-Solved/tree/master/0242-valid-anagram) |
 ## Simulation
 |  |
