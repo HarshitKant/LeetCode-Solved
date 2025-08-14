@@ -34,4 +34,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/HarshitKant/LeetCode-Solved/tree/master/0014-longest-common-prefix) |
+## Database
+|  |
+| ------- |
+| [0185-department-top-three-salaries](https://github.com/HarshitKant/LeetCode-Solved/tree/master/0185-department-top-three-salaries) |
 <!---LeetCode Topics End-->
